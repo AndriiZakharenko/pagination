@@ -26,4 +26,4 @@ You a given a list of items and markup for the `Pagination`. Implemented the
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/test/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/react_pagination/)
